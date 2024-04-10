@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: auto;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 50dvw;
+  padding: 1rem;
+  margin: auto;
+}
